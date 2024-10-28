@@ -63,15 +63,15 @@ First, download the project files to your local environment by cloning the GitHu
 git clone https://github.com/yourusername/SpendWise.git
 cd SpendWise
 ```
-2. Install Dependencies
+### 2. Install Dependencies
 After navigating to the project directory, install all the dependencies. These include ReactJS and other supporting packages specified in package.json. The following command will download and install all required modules.
 ```bash
 npm install
 ```
-3. Set Up Environment (Optional)
+### 3. Set Up Environment (Optional)
 If the project has environment-specific variables (e.g., for storing sensitive keys or configuration options), create a .env file in the root directory. Currently, this is optional but recommended for future scalability.
 
-4. Run the Application
+### 4. Run the Application
 To launch the application locally:
 
 ```bash
@@ -79,7 +79,7 @@ npm start
 ```
 The npm start command initiates the development server, usually running on port 3000, and opens the application in your default browser.
 
-6. Access the Application
+### 6. Access the Application
 Once the server starts, navigate to:
 http://localhost:3000
 This link opens the SpendWise app, where you can interact with its features, such as adding and tracking expenses.
@@ -98,7 +98,7 @@ npm -v
 
 These commands display the installed versions of Node.js and npm. If either is missing, download and install the latest version of Node.js from nodejs.org.
 
-2. Launch the Development Server
+### 2. Launch the Development Server
 In the SpendWise project directory, start the server with the following command:
 
 ```bash
@@ -106,10 +106,10 @@ npm start
 ```
 This launches the React development server, which will automatically open the SpendWise app in your browser at http://localhost:3000.
 
-4. Verify Offline Functionality
+### 4. Verify Offline Functionality
 SpendWise uses the browser’s local storage to store expense data, enabling offline access. After entering some expense data, disconnect from the internet and refresh the app to verify that data persists offline.
-
 This functionality allows users to continue using SpendWise without an internet connection, making it ideal for tracking expenses on the go.
+
 
 # 🔍 Step-by-Step Process
 
@@ -163,6 +163,11 @@ If you plan to deploy SpendWise for public access, follow these steps:
   ```bash
   npm run build
   ```
+
+# 📄 License
+This project is licensed under the **MIT License**. For more details, refer to the `LICENSE` file in the repository.
+
+Happy hacking with SpendWise! 🎉
 
 
 
