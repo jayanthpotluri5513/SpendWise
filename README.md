@@ -4,6 +4,9 @@ SpendWise is a user-friendly expense tracking application developed with ReactJS
 
 ---
 
+### Live Deployed Link
+You can access the live deployed version of SpendWise at the following link: [SpendWise Live Demo](https://662e0dd025ed7e8cd28aa949--luxury-gelato-fb0550.netlify.app/)
+
 ## 📋 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -166,6 +169,14 @@ If you plan to deploy SpendWise for public access, follow these steps:
 
 # 📄 License
 This project is licensed under the **MIT License**. For more details, refer to the `LICENSE` file in the repository.
+
+## 🤖 About Me:
+I'm Srijayanth Potluri, an aspiring analyst with a strong foundation in data-driven technologies. I am dedicated to developing innovative solutions and advanced systems that enhance user experiences across various domains.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijayanth-potluri-437519259/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SrijayanthP)
 
 Happy hacking with SpendWise! 🎉
 
