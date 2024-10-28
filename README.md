@@ -83,3 +83,32 @@ The npm start command initiates the development server, usually running on port 
 Once the server starts, navigate to:
 http://localhost:3000
 This link opens the SpendWise app, where you can interact with its features, such as adding and tracking expenses.
+
+# 🏃 Instructions to Run
+
+To ensure smooth execution, follow this checklist before running SpendWise:
+
+### 1. Ensure Node.js and NPM are Installed
+Check if Node.js and npm (Node Package Manager) are installed by running the following commands:
+
+```bash
+node -v
+npm -v
+```
+
+These commands display the installed versions of Node.js and npm. If either is missing, download and install the latest version of Node.js from nodejs.org.
+
+2. Launch the Development Server
+In the SpendWise project directory, start the server with the following command:
+
+```bash
+npm start
+```
+This launches the React development server, which will automatically open the SpendWise app in your browser at http://localhost:3000.
+
+4. Verify Offline Functionality
+SpendWise uses the browser’s local storage to store expense data, enabling offline access. After entering some expense data, disconnect from the internet and refresh the app to verify that data persists offline.
+
+This functionality allows users to continue using SpendWise without an internet connection, making it ideal for tracking expenses on the go.
+
+
